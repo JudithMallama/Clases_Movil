@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Practica_uno</string>
+    <string name="title">Registrate</string>
+    <string name="requiered_field">Campo requerido</string>
+    <string name="email">Correo electrónico</string>
+    <string name="required_field">*Campo requerido</string>
+    <string name="name">Nombre completo</string>
+    <string name="password">Contraseña</string>
+    <string name="repeat_password"> Repita la contraseña</string>
+    <string name="gender">Género:</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="hobbies">Pasatiempos</string>
+    <string name="read">Leer</string>
+    <string name="sport">Deporte</string>
+    <string name="write">Escribir</string>
+    <string name="music">Música</string>
+    <string name="date">Fecha de nacimiento:</string>
+    <string name="dateedit">dd/mm/aa</string>
+    <string name="salve">Guardar</string>
+    <string name="city">Ciudad de nacimiento:</string>
+    <string name="info">Datos registrados:</string>
+    <string name="pass_error">Las contraseñas no coinciden</string>
+    <string name="campos_error">Tiene campos vacios</string>
+
+</resources>
