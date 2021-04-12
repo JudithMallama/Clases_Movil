@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Pratica tres</string>
+    <string name="title">RESISTENCIAS</string>
+    <string name="img">resistencia</string>
+    <string name="color">Ingrese los colores</string>
+    <string name="calculo">Calcular</string>
+    <string name="info">El valor de la resistencias es:</string>
+    <string-array name = "opc1">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name = "opc2">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name = "opc3">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name = "tol">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Oro</item>
+        <item>Plata</item>
+        <item>Sin Color</item>
+    </string-array>
+</resources>
