@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica_dos</string>
+    <string name="title">Conversión de monedas</string>
+    <string name="change_text">Ingrese el valor a converirtir en pesos</string>
+    <string name="requerid_file">Pesos Colombianos</string>
+    <string name="change">Ingrese el valor a convertir</string>
+    <string name="divisa">Seleccione la divisa</string>
+    <string name="calculate">Calcular</string>
+    <string name="info">El valor convertido es:</string>
+    <string-array name="opciones">
+        <item>Dólar</item>
+        <item>Euro</item>
+        <item>Yen</item>
+        <item>Libra esterlina</item>
+        <item>Franco suizo</item>
+    </string-array>
+</resources>
